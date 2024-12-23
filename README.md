@@ -39,10 +39,12 @@
     </code>
   </li>
   <li><p>En el archivo <code>joyasController.js</code>, actualizar las líneas 9 y 10 con el usuario y contraseña de PostgreSQL.</p></li>
+  <li><p>Teniendo todo lo anterior listo, en la terminal, escribir <code>npx nodemon app.js</code> y ejecutar.</p></li>
+  
 </ul>
 
 <h2>Pruebas de la API</h2>
-<p>Teniendo todo lo anterior listo, en la terminal, escribir <code>npx nodemon app.js</code> y ejecutar.</p>
+
 <p>Se recomienda utilizar clientes de API como Thunder Client o <a href="https://www.postman.com/downloads/" target="_blank">Postman</a>.</p>
 
 <h3>Thunder Client</h3>
