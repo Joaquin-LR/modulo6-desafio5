@@ -39,7 +39,7 @@
     </code>
   </li>
   <li><p>En el archivo <code>joyasController.js</code>, actualizar las líneas 9 y 10 con el usuario y contraseña de PostgreSQL.</p></li>
-  <li><p>Teniendo todo lo anterior listo, en la terminal, escribir <code>npx nodemon app.js</code> y ejecutar.</p></li>
+  <li><p>Teniendo todo lo anterior listo, en la terminal, escribir <code>npx nodemon app.js</code> y ejecutar. Esto hará correr el servidor.</p></li>
   
 </ul>
 
